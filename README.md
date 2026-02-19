@@ -1,6 +1,6 @@
 # Wildlife-Fire
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IGXotr6JmxcAJjkjHZwCu0eeSxVzlaPv#scrollTo=3IQVR7ruI8vM)
 
 ### Project Overview
 This project uses Machine Learning (Random Forest Classifier) to predict wildfire risks based on meteorological data.
@@ -13,5 +13,5 @@ This project uses Machine Learning (Random Forest Classifier) to predict wildfir
 
 ### How to Run
 1.  Click the **"Open in Colab"** badge above.
-2.  Run the cells sequentially (Ctrl+F9).
-3.  Upload the `forestfires.csv` file when prompted by the code.
+2.  Run the cells sequentially.
+3.  Upload the `forestfires.csv` file.
