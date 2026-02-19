@@ -1,8 +1,8 @@
 # Wildlife-Fire
 
-[![Open In Colab]](https://colab.research.google.com/drive/1IGXotr6JmxcAJjkjHZwCu0eeSxVzlaPv#scrollTo=3IQVR7ruI8vM)
+[Open In Colab](https://colab.research.google.com/drive/1IGXotr6JmxcAJjkjHZwCu0eeSxVzlaPv#scrollTo=3IQVR7ruI8vM)
 &nbsp;&nbsp;
-[![Kaggle Dataset]](https://www.kaggle.com/datasets/elikplim/forest-fires-data-set)
+[Kaggle Dataset](https://www.kaggle.com/datasets/elikplim/forest-fires-data-set)
 
 ### Project Overview
 This project uses Machine Learning (Random Forest Classifier) to predict wildfire risks based on meteorological data.
