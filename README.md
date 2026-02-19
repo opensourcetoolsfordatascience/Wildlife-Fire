@@ -1,7 +1,7 @@
 # Wildlife-Fire
 
 [Open In Colab](https://colab.research.google.com/drive/1IGXotr6JmxcAJjkjHZwCu0eeSxVzlaPv#scrollTo=3IQVR7ruI8vM)
-&nbsp;&nbsp;
+<br>
 [Kaggle Dataset](https://www.kaggle.com/datasets/elikplim/forest-fires-data-set)
 
 ### Project Overview
